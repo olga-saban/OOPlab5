@@ -1,0 +1,6 @@
+public enum CoffeeType {
+    CAPPUCCINO,
+    AMERICANO,
+    PUMPKINSPICELATTE,
+    SYRUPCAPPUCCINO
+}
